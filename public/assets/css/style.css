@@ -1,18 +1,48 @@
+body {
+background-image: url(https://image.freepik.com/free-vector/burger-cartoon_119631-249.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-image-color: yellow;
+}
+h1, h2 {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 40px;
+  color: red;
+  text-shadow: 2px 2px black;
+  
+}
+ul {
+  font-size: 20px;
+  color: black;
+}
+.change-devoured {
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: white;
+  color: red;
+}
+label {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+}
+button {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 li {
   padding: 5px;
   margin: 5px;
-  background: #faebd7;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 24px;
 }
 
 .label {
   font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.create-update-form {
-  padding: 5px;
-  margin: 5px;
-  background: aqua;
-}
+
 
 .form-group {
   margin-bottom: 5px;
