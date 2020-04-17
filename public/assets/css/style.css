@@ -1,10 +1,11 @@
 body {
-background-image: url(https://image.freepik.com/free-vector/burger-cartoon_119631-249.jpg);
-background-position: center;
-background-repeat: no-repeat;
-background-attachment: fixed;
-background-image-color: yellow;
+  background-image: url(https://image.freepik.com/free-vector/burger-cartoon_119631-249.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
 }
+
 h1, h2 {
   text-align: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
